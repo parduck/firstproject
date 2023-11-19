@@ -3,3 +3,7 @@
 /build/classes/java/main/com/example/firstproject/controller/FirstController.class
 /build/classes/java/test/com/example/firstproject/FirstprojectApplicationTests.class
 /build/
+/.gradle/
+/build/
+/.idea/
+/gradle/
