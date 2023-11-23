@@ -9,3 +9,5 @@ jetbrain intellij : https://www.jetbrains.com/idea/download/?section=windows
 springboot : https://start.spring.io/
 
 bootStrap : https://getbootstrap.com
+
+gitignore 적용 : git rm -r --cached .
