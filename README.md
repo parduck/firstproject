@@ -10,4 +10,4 @@ springboot : https://start.spring.io/
 
 bootStrap : https://getbootstrap.com
 
-gitignore 적용 : git rm -r --cached .
+gitignore 적용 : git rm -r --cached . 
